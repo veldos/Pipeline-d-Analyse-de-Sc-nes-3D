@@ -487,6 +487,6 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 **⭐ Si ce projet vous aide, n'hésitez pas à lui donner une étoile ! ⭐**
 
-Made with ❤️ by [Veldos]
+Made with ❤️ by Veldos
 
 </div>
